@@ -17,7 +17,7 @@ The Caesar Cipher technique is one of the earliest method of encryption techniqu
     1. Clone this repo
     2. open with intellij IDEA
     3. cd caesorcipher/src/main/resources
-    4. Then run ` javac CaesarCipher.java && java CaesarCipher`
+    4. Then run `javac Cipher.java && java Cipher`
 
 
 ## Testing
